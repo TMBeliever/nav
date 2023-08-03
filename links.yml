@@ -95,7 +95,11 @@ categories:
         url: https://zh.pipecraft.net/
         description: 收集小而美的中文垂直社区，微社区，垂直网址导航的网址导航网站。
         tags: 网址导航,中文垂直社区,微社区,垂直网址导航
-
+      - title: 纵横网址导航
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="80">纵</text></svg>
+        url: https://zh.pipecraft.net/
+        description: 收集小而美的中文垂直社区，微社区，垂直网址导航的网址导航网站。
+      tags: 网址导航,中文垂直社区,微社区,垂直网址导航
   - category: 程序员博客
     icon: linecons-doc
     links:
